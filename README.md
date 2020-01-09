@@ -5,6 +5,8 @@
 SpotToCry is a full-stack clone of the popular music streaming service Spotify, centered around sad music.  
 Users can listen to music, create playlists, follow other users, and search for their favorite music. 
 
+Live Link: http://spottocry.herokuapp.com
+
 ## Technologies Used
 * MongoDB 
 * GraphQL 
